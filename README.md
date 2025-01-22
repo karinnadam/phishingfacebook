@@ -20,4 +20,4 @@ Trabalho realizado através da plataforma de estudos da DIO
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/c9517e0e-d2dc-4447-9808-19739059b2e1)
